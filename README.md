@@ -1,2 +1,2 @@
 # AnalyticsVidhya-Tutorials
-Analyticsvidhya tutorials for computer science students.
+AnalyticsVidhya tutorials for computer science students.
