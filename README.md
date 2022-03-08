@@ -1,4 +1,4 @@
-# Theory-of-Computation-and-Compiler-Design-Training
+# Theory of Computation and Compiler Design Training
 
 
 <br><br>
