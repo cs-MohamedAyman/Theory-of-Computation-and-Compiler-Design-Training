@@ -1,8 +1,14 @@
 # Theory of Computation and Compiler Design Training
 
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/programming-languages-concepts.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/theory-of-computation.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/compiler-design.jpg"></img>
+<br><br><br><br><br>
+
+Theory of Computation and Compiler Design Training for computer science students.
 
 <br><br>
-<img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg"></img>
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg">
 
 ## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md)
 
